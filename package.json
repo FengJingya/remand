@@ -1,0 +1,10 @@
+{
+	"scripts": {
+    "start": "webpack-dev-server --progress --colors --watch"
+  },
+  "devDependencies": {
+    "webpack": "^1.12.13",
+    "webpack-cli": "^3.3.5",
+    "webpack-dev-server": "^3.7.2"
+  }
+}
